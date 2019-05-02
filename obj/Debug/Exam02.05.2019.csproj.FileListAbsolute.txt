@@ -1,0 +1,12 @@
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\bin\Debug\Exam02.05.2019.exe.config
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\bin\Debug\Exam02.05.2019.exe
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\bin\Debug\Exam02.05.2019.pdb
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\bin\Debug\Dapper.dll
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\bin\Debug\dbup-core.dll
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\bin\Debug\dbup-sqlserver.dll
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\bin\Debug\Dapper.xml
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\obj\Debug\Exam02.05.2019.csprojAssemblyReference.cache
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\obj\Debug\Exam02.05.2019.csproj.CoreCompileInputs.cache
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\obj\Debug\Exam02.05.2019.csproj.CopyComplete
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\obj\Debug\Exam02.05.2019.exe
+c:\users\адылкановм.corp\source\repos\Exam02.05.2019\Exam02.05.2019\obj\Debug\Exam02.05.2019.pdb
